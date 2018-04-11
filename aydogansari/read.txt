@@ -1,0 +1,1 @@
+aydogansari dizinini assets,images,html,master klasörlerini oluþturdum.
